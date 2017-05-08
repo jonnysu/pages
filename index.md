@@ -6,3 +6,6 @@ lots of things need to be modify,lots of jobs need to be done in a short time. t
 
 2017-5-4
 get something wrong on intellitest. when i use the newtonsoft.json. i submited an issue but no answer.
+2017-5-8
+nobody work in newtonsoft.json, what issue i submit didn't get answer.
+ 
