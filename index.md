@@ -12,3 +12,6 @@ get something wrong on intellitest. when i use the newtonsoft.json. i submited a
 
 nobody work in newtonsoft.json, what issue i submit didn't get answer.
  
+2017-6-19
+
+My waist hurted when i lift something heavy. bad luck really~~~ need lots of time to recover.
